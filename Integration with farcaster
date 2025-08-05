@@ -1,0 +1,12 @@
+Tortoise’s Mini App-like experience shines through its integration with Farcaster’s broader features. When you follow the channel, its casts appear in your home feed, and the Farcaster client may notify your followers about your participation, boosting visibility. The channel can also interact with Farcaster bots and Mini Apps to enhance engagement. For instance:@remindme
+: Reply to a thought-provoking Tortoise cast with “@remindme
+ 1 week” to get a reminder to revisit the discussion.
+
+@perl
+: Save an insightful cast to a category for later reference by replying with “@perl
+ Philosophy.”
+
+@mintit
+: Mint a particularly compelling cast as an NFT, preserving it as a digital collectible.
+
+These tools, accessible within the Farcaster feed, make Tortoise a dynamic space for both casual users and developers.
